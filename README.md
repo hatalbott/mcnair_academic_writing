@@ -24,3 +24,14 @@ There are no recordings yet. Please stay tuned.
 ### License
 These course materials are available under Attribution-NonCommercial-ShareAlike 4.0 International(CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/
 *Authors:* [Heather Talbott, Ph.D.](https://github.com/hatalbott)
+
+
+Resources for Course on github and readme files
+https://github.com/jminnier/berd_r_courses#octri-berd-r-courses
+https://github.com/LEARNAcademy/Syllabus
+https://hatalbott-animated-spork-j95wg997grrfq7ww.github.dev/
+https://github.com/cop3402fall19/syllabus
+https://github.com/matiassingers/awesome-readme
+https://github.com/Hexworks/zircon#readme
+https://iu.pressbooks.pub/online2020/chapter/syllabi/
+https://www.psychologicalscience.org/observer/creating-the-foundation-for-a-warm-classroom-climate
